@@ -8,7 +8,7 @@ const server = http.createServer(app);
 initializeSocket(server)
 
 
-server.listen(port, ()=>{
+server.listen(5000, ()=>{
     console.log(`server is running on port ${port}`);
     
 })
