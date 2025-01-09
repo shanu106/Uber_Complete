@@ -1,0 +1,5 @@
+# Ignore all .gitignore files in any directory
+**/.gitignore
+
+**/.env
+**/.node_modules
